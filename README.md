@@ -9,7 +9,7 @@
 - **Languages:** TypeScript, JavaScript (ES6+), HTML, CSS
 - **Frameworks:** React, Next.js, Redux, Tailwind, Styled Components
 - **Tools:** Git, Storybook, Sentry, Datadog, ESLint, Prettier
-- **AI & Backend:** Langchain, Supabase, Custom ML Models
+- **AI & Backend:** Langchain, Supabase, Xenova, Hugging Face 
 
 ---
 
