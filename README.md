@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Jesús Vázquez Rosa
 
-<!--
-**jesusvaros/jesusvaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Frontend Engineer | AI Enthusiast | Data-Driven Developer  
+📍 Seville, Spain | 🌐 [Portfolio](https://github.com/jesusvaros) | 📫 xjesusvr@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** TypeScript, JavaScript (ES6+), HTML, CSS
+- **Frameworks:** React, Next.js, Redux, Tailwind, Styled Components
+- **Tools:** Git, Storybook, Sentry, Datadog, ESLint, Prettier
+- **AI & Backend:** Langchain, Supabase, Custom ML Models
+
+---
+
+### 🚧 Featured Projects
+
+#### 🧩 [Flabo](https://github.com/jesusvaros/Flabo)
+Interactive recipe board using Tldraw, AI-powered sketch-to-recipe, voice-to-recipe and photo-to-recipe conversion.  
+Tech: React, Supabase, Tailwind, Custom AI models
+
+---
+
+### 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusvaros&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvaros&layout=compact&theme=radical)
+
+---
+
+### 🤝 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/jesus-vazquez-rosa/) | [Portfolio](https://github.com/jesusvaros) | [Email](mailto:xjesusvr@gmail.com)
