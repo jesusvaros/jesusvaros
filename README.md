@@ -15,6 +15,11 @@
 
 ### 🚧 Featured Projects
 
+#### 🛒 [Comparaland](https://comparaland.es) 🔗 [Repo](https://github.com/jesusvaros/Seolink)
+Smart product comparison platform with affiliate marketing integration, helping users make informed purchase decisions. 
+Scraping to generate with chatOpenAi posts.
+Tech: Next.js, TypeScript, MDX, Tailwind CSS, SEO optimization
+
 #### 🧩 [Flabo](https://github.com/jesusvaros/Flabo)
 Interactive recipe board using Tldraw, AI-powered sketch-to-recipe, voice-to-recipe and photo-to-recipe conversion.  
 Tech: React, Supabase, Tailwind, Custom AI models
