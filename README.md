@@ -15,20 +15,22 @@
 
 ### 🚧 Featured Projects
 
+#### 🍳 [HolyCook](https://holycook.es/)
+Social cooking app where recipes come to life. Share, discover, and save recipes from around the world with AI-powered features.  
+Available on [App Store](https://apps.apple.com/us/app/holycook/id6741437202) & [Google Play](https://play.google.com/store/apps/details?id=com.holycook.app).  
+Tech: React, Vite, Capacitor, Firebase, Stripe, AI recipe generation
+
+#### 🏠 [Caserook](https://caserook.com) 🔗 [Repo](https://github.com/jesusvaros/CaseroVerificado)
+Platform to discover and share anonymous reviews about housing in Spain. Interactive map with privacy-first design using client-side hashing (SHA-256) to group reviews without exposing personal data.  
+Tech: React, Vite, TypeScript, Tailwind CSS, Supabase, Leaflet + MapLibre, HERE Geocoding API
+
 #### 🛒 [Comparaland](https://comparaland.es) 🔗 [Repo](https://github.com/jesusvaros/Seolink)
 Smart product comparison platform with affiliate marketing integration, helping users make informed purchase decisions. 
-Scraping to generate with chatOpenAi posts.
+Scraping to generate with chatOpenAi posts.  
 Tech: Next.js, TypeScript, MDX, Tailwind CSS, SEO optimization
-
-#### 🧩 [Flabo](https://github.com/jesusvaros/Flabo)
-Interactive recipe board using Tldraw, AI-powered sketch-to-recipe, voice-to-recipe and photo-to-recipe conversion.  
-Tech: React, Supabase, Tailwind, Custom AI models
-
-#### 📝 [Daybook Mind](https://github.com/jesusvaros/daybook-mind)
-Fullstack journaling app built with Next.js 13, featuring modern auth, PostgreSQL integration, and UI with Tailwind + ShadCN.  
-Tech: Next.js 13 App Router, TypeScript, Prisma, NextAuth, Tailwind, PostgreSQL
 
 ---
 
 ### 🤝 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/jesus-vazquez-rosa/) | [Portfolio](https://github.com/jesusvaros) | [Email](mailto:xjesusvr@gmail.com)
+
